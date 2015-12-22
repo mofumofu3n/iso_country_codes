@@ -51,6 +51,10 @@ class TestIsoCountryCodes < Test::Unit::TestCase
     assert_equal [IsoCountryCodes::Code::AUS.instance], IsoCountryCodes.search_by_name('australia')
   end
 
+  def test_search_with_japanese_name
+    assert_equal [IsoCountryCodes::Code::AUS.instance], IsoCountryCodes.search_by_japanese('オーストラリア')
+  end
+
   def test_search_with_uppercase_name
     assert_equal [IsoCountryCodes::Code::AUS.instance], IsoCountryCodes.search_by_name('AUSTRALIA')
   end
