@@ -48,8 +48,12 @@ class IsoCountryCodes
       self.class.iban
     end
 
+    def japanese
+      self.class.japanese
+    end
+
     class << self
-      attr_accessor :name, :numeric, :alpha2, :alpha3, :calling, :continent, :main_currency, :iban
+      attr_accessor :name, :numeric, :alpha2, :alpha3, :calling, :continent, :main_currency, :iban, :japanese
       attr_writer :currencies
       alias_method :currency, :main_currency
       alias_method :calling_code, :calling
