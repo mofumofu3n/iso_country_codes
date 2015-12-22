@@ -21,6 +21,7 @@ Provides ISO codes, names and currencies for countries.
   code.calling   # => "+44"
   code.continent # => "EU"
   code.iban      # => "GB"
+  code.japanese  # => 'イギリス'
 
   # Codes can be found via numeric, alpha-2 or alpha-3 format
   IsoCountryCodes.find(36)
@@ -29,6 +30,7 @@ Provides ISO codes, names and currencies for countries.
 
   # Codes can also be returned by searching country name, currency, calling/dialing code or IBAN
   IsoCountryCodes.search_by_name('australia')
+  IsoCountryCodes.search_by_japanese('オーストラリア')
   IsoCountryCodes.search_by_currency('aud')
   IsoCountryCodes.search_by_calling_code('+61')
   IsoCountryCodes.search_by_iban('gb')
