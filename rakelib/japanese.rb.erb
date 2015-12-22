@@ -4,7 +4,7 @@ class IsoCountryCodes
   class Code
   <% codes.keys.each do |code| -%>
     class <%= code.upcase %> < Code #:nodoc:
-      self.name    = %q{<%= codes[code][:name] %>}
+      self.japanese = %q{<%= codes[code][:name] %>}
     end
   <% end -%>
   end # end Code
