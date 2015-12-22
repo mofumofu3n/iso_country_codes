@@ -3,751 +3,751 @@
 class IsoCountryCodes
   class Code
     class ISL < Code #:nodoc:
-      self.name    = %q{アイスランド}
+      self.japanese = %q{アイスランド}
     end
     class IRL < Code #:nodoc:
-      self.name    = %q{アイルランド}
+      self.japanese = %q{アイルランド}
     end
     class AZE < Code #:nodoc:
-      self.name    = %q{アゼルバイジャン}
+      self.japanese = %q{アゼルバイジャン}
     end
     class AFG < Code #:nodoc:
-      self.name    = %q{アフガニスタン}
+      self.japanese = %q{アフガニスタン}
     end
     class USA < Code #:nodoc:
-      self.name    = %q{アメリカ合衆国}
+      self.japanese = %q{アメリカ合衆国}
     end
     class VIR < Code #:nodoc:
-      self.name    = %q{アメリカ領ヴァージン諸島}
+      self.japanese = %q{アメリカ領ヴァージン諸島}
     end
     class ASM < Code #:nodoc:
-      self.name    = %q{アメリカ領サモア}
+      self.japanese = %q{アメリカ領サモア}
     end
     class ARE < Code #:nodoc:
-      self.name    = %q{アラブ首長国連邦}
+      self.japanese = %q{アラブ首長国連邦}
     end
     class DZA < Code #:nodoc:
-      self.name    = %q{アルジェリア}
+      self.japanese = %q{アルジェリア}
     end
     class ARG < Code #:nodoc:
-      self.name    = %q{アルゼンチン}
+      self.japanese = %q{アルゼンチン}
     end
     class ABW < Code #:nodoc:
-      self.name    = %q{アルバ}
+      self.japanese = %q{アルバ}
     end
     class ALB < Code #:nodoc:
-      self.name    = %q{アルバニア}
+      self.japanese = %q{アルバニア}
     end
     class ARM < Code #:nodoc:
-      self.name    = %q{アルメニア}
+      self.japanese = %q{アルメニア}
     end
     class AIA < Code #:nodoc:
-      self.name    = %q{アンギラ}
+      self.japanese = %q{アンギラ}
     end
     class AGO < Code #:nodoc:
-      self.name    = %q{アンゴラ}
+      self.japanese = %q{アンゴラ}
     end
     class ATG < Code #:nodoc:
-      self.name    = %q{アンティグア・バーブーダ}
+      self.japanese = %q{アンティグア・バーブーダ}
     end
     class AND < Code #:nodoc:
-      self.name    = %q{アンドラ}
+      self.japanese = %q{アンドラ}
     end
     class YEM < Code #:nodoc:
-      self.name    = %q{イエメン}
+      self.japanese = %q{イエメン}
     end
     class GBR < Code #:nodoc:
-      self.name    = %q{イギリス}
+      self.japanese = %q{イギリス}
     end
     class IOT < Code #:nodoc:
-      self.name    = %q{イギリス領インド洋地域}
+      self.japanese = %q{イギリス領インド洋地域}
     end
     class VGB < Code #:nodoc:
-      self.name    = %q{イギリス領ヴァージン諸島}
+      self.japanese = %q{イギリス領ヴァージン諸島}
     end
     class ISR < Code #:nodoc:
-      self.name    = %q{イスラエル}
+      self.japanese = %q{イスラエル}
     end
     class ITA < Code #:nodoc:
-      self.name    = %q{イタリア}
+      self.japanese = %q{イタリア}
     end
     class IRQ < Code #:nodoc:
-      self.name    = %q{イラク}
+      self.japanese = %q{イラク}
     end
     class IRN < Code #:nodoc:
-      self.name    = %q{イラン・イスラム共和国}
+      self.japanese = %q{イラン・イスラム共和国}
     end
     class IND < Code #:nodoc:
-      self.name    = %q{インド}
+      self.japanese = %q{インド}
     end
     class IDN < Code #:nodoc:
-      self.name    = %q{インドネシア}
+      self.japanese = %q{インドネシア}
     end
     class WLF < Code #:nodoc:
-      self.name    = %q{ウォリス・フツナ}
+      self.japanese = %q{ウォリス・フツナ}
     end
     class UGA < Code #:nodoc:
-      self.name    = %q{ウガンダ}
+      self.japanese = %q{ウガンダ}
     end
     class UKR < Code #:nodoc:
-      self.name    = %q{ウクライナ}
+      self.japanese = %q{ウクライナ}
     end
     class UZB < Code #:nodoc:
-      self.name    = %q{ウズベキスタン}
+      self.japanese = %q{ウズベキスタン}
     end
     class URY < Code #:nodoc:
-      self.name    = %q{ウルグアイ}
+      self.japanese = %q{ウルグアイ}
     end
     class ECU < Code #:nodoc:
-      self.name    = %q{エクアドル}
+      self.japanese = %q{エクアドル}
     end
     class EGY < Code #:nodoc:
-      self.name    = %q{エジプト}
+      self.japanese = %q{エジプト}
     end
     class EST < Code #:nodoc:
-      self.name    = %q{エストニア}
+      self.japanese = %q{エストニア}
     end
     class ETH < Code #:nodoc:
-      self.name    = %q{エチオピア}
+      self.japanese = %q{エチオピア}
     end
     class ERI < Code #:nodoc:
-      self.name    = %q{エリトリア}
+      self.japanese = %q{エリトリア}
     end
     class SLV < Code #:nodoc:
-      self.name    = %q{エルサルバドル}
+      self.japanese = %q{エルサルバドル}
     end
     class AUS < Code #:nodoc:
-      self.name    = %q{オーストラリア}
+      self.japanese = %q{オーストラリア}
     end
     class AUT < Code #:nodoc:
-      self.name    = %q{オーストリア}
+      self.japanese = %q{オーストリア}
     end
     class ALA < Code #:nodoc:
-      self.name    = %q{オーランド諸島}
+      self.japanese = %q{オーランド諸島}
     end
     class OMN < Code #:nodoc:
-      self.name    = %q{オマーン}
+      self.japanese = %q{オマーン}
     end
     class NLD < Code #:nodoc:
-      self.name    = %q{オランダ}
+      self.japanese = %q{オランダ}
     end
     class GHA < Code #:nodoc:
-      self.name    = %q{ガーナ}
+      self.japanese = %q{ガーナ}
     end
     class CPV < Code #:nodoc:
-      self.name    = %q{カーボベルデ}
+      self.japanese = %q{カーボベルデ}
     end
     class GGY < Code #:nodoc:
-      self.name    = %q{ガーンジー}
+      self.japanese = %q{ガーンジー}
     end
     class GUY < Code #:nodoc:
-      self.name    = %q{ガイアナ}
+      self.japanese = %q{ガイアナ}
     end
     class KAZ < Code #:nodoc:
-      self.name    = %q{カザフスタン}
+      self.japanese = %q{カザフスタン}
     end
     class QAT < Code #:nodoc:
-      self.name    = %q{カタール}
+      self.japanese = %q{カタール}
     end
     class UMI < Code #:nodoc:
-      self.name    = %q{合衆国領有小離島}
+      self.japanese = %q{合衆国領有小離島}
     end
     class CAN < Code #:nodoc:
-      self.name    = %q{カナダ}
+      self.japanese = %q{カナダ}
     end
     class GAB < Code #:nodoc:
-      self.name    = %q{ガボン}
+      self.japanese = %q{ガボン}
     end
     class CMR < Code #:nodoc:
-      self.name    = %q{カメルーン}
+      self.japanese = %q{カメルーン}
     end
     class GMB < Code #:nodoc:
-      self.name    = %q{ガンビア}
+      self.japanese = %q{ガンビア}
     end
     class KHM < Code #:nodoc:
-      self.name    = %q{カンボジア}
+      self.japanese = %q{カンボジア}
     end
     class MNP < Code #:nodoc:
-      self.name    = %q{北マリアナ諸島}
+      self.japanese = %q{北マリアナ諸島}
     end
     class GIN < Code #:nodoc:
-      self.name    = %q{ギニア}
+      self.japanese = %q{ギニア}
     end
     class GNB < Code #:nodoc:
-      self.name    = %q{ギニアビサウ}
+      self.japanese = %q{ギニアビサウ}
     end
     class CYP < Code #:nodoc:
-      self.name    = %q{キプロス}
+      self.japanese = %q{キプロス}
     end
     class CUB < Code #:nodoc:
-      self.name    = %q{キューバ}
+      self.japanese = %q{キューバ}
     end
     class CUW < Code #:nodoc:
-      self.name    = %q{キュラソー}
+      self.japanese = %q{キュラソー}
     end
     class GRC < Code #:nodoc:
-      self.name    = %q{ギリシャ}
+      self.japanese = %q{ギリシャ}
     end
     class KIR < Code #:nodoc:
-      self.name    = %q{キリバス}
+      self.japanese = %q{キリバス}
     end
     class KGZ < Code #:nodoc:
-      self.name    = %q{キルギス}
+      self.japanese = %q{キルギス}
     end
     class GTM < Code #:nodoc:
-      self.name    = %q{グアテマラ}
+      self.japanese = %q{グアテマラ}
     end
     class GLP < Code #:nodoc:
-      self.name    = %q{グアドループ}
+      self.japanese = %q{グアドループ}
     end
     class GUM < Code #:nodoc:
-      self.name    = %q{グアム}
+      self.japanese = %q{グアム}
     end
     class KWT < Code #:nodoc:
-      self.name    = %q{クウェート}
+      self.japanese = %q{クウェート}
     end
     class COK < Code #:nodoc:
-      self.name    = %q{クック諸島}
+      self.japanese = %q{クック諸島}
     end
     class GRL < Code #:nodoc:
-      self.name    = %q{グリーンランド}
+      self.japanese = %q{グリーンランド}
     end
     class CXR < Code #:nodoc:
-      self.name    = %q{クリスマス島}
+      self.japanese = %q{クリスマス島}
     end
     class GEO < Code #:nodoc:
-      self.name    = %q{グルジア}
+      self.japanese = %q{グルジア}
     end
     class GRD < Code #:nodoc:
-      self.name    = %q{グレナダ}
+      self.japanese = %q{グレナダ}
     end
     class HRV < Code #:nodoc:
-      self.name    = %q{クロアチア}
+      self.japanese = %q{クロアチア}
     end
     class CYM < Code #:nodoc:
-      self.name    = %q{ケイマン諸島}
+      self.japanese = %q{ケイマン諸島}
     end
     class KEN < Code #:nodoc:
-      self.name    = %q{ケニア}
+      self.japanese = %q{ケニア}
     end
     class CIV < Code #:nodoc:
-      self.name    = %q{コートジボワール}
+      self.japanese = %q{コートジボワール}
     end
     class CCK < Code #:nodoc:
-      self.name    = %q{ココス（キーリング）諸島}
+      self.japanese = %q{ココス（キーリング）諸島}
     end
     class CRI < Code #:nodoc:
-      self.name    = %q{コスタリカ}
+      self.japanese = %q{コスタリカ}
     end
     class COM < Code #:nodoc:
-      self.name    = %q{コモロ}
+      self.japanese = %q{コモロ}
     end
     class COL < Code #:nodoc:
-      self.name    = %q{コロンビア}
+      self.japanese = %q{コロンビア}
     end
     class COG < Code #:nodoc:
-      self.name    = %q{コンゴ共和国}
+      self.japanese = %q{コンゴ共和国}
     end
     class COD < Code #:nodoc:
-      self.name    = %q{コンゴ民主共和国}
+      self.japanese = %q{コンゴ民主共和国}
     end
     class SAU < Code #:nodoc:
-      self.name    = %q{サウジアラビア}
+      self.japanese = %q{サウジアラビア}
     end
     class SGS < Code #:nodoc:
-      self.name    = %q{サウスジョージア・サウスサンドウィッチ諸島}
+      self.japanese = %q{サウスジョージア・サウスサンドウィッチ諸島}
     end
     class WSM < Code #:nodoc:
-      self.name    = %q{サモア}
+      self.japanese = %q{サモア}
     end
     class STP < Code #:nodoc:
-      self.name    = %q{サントメ・プリンシペ}
+      self.japanese = %q{サントメ・プリンシペ}
     end
     class BLM < Code #:nodoc:
-      self.name    = %q{サン・バルテルミー}
+      self.japanese = %q{サン・バルテルミー}
     end
     class ZMB < Code #:nodoc:
-      self.name    = %q{ザンビア}
+      self.japanese = %q{ザンビア}
     end
     class SPM < Code #:nodoc:
-      self.name    = %q{サンピエール島・ミクロン島}
+      self.japanese = %q{サンピエール島・ミクロン島}
     end
     class SMR < Code #:nodoc:
-      self.name    = %q{サンマリノ}
+      self.japanese = %q{サンマリノ}
     end
     class MAF < Code #:nodoc:
-      self.name    = %q{サン・マルタン（フランス領）}
+      self.japanese = %q{サン・マルタン（フランス領）}
     end
     class SLE < Code #:nodoc:
-      self.name    = %q{シエラレオネ}
+      self.japanese = %q{シエラレオネ}
     end
     class DJI < Code #:nodoc:
-      self.name    = %q{ジブチ}
+      self.japanese = %q{ジブチ}
     end
     class GIB < Code #:nodoc:
-      self.name    = %q{ジブラルタル}
+      self.japanese = %q{ジブラルタル}
     end
     class JEY < Code #:nodoc:
-      self.name    = %q{ジャージー}
+      self.japanese = %q{ジャージー}
     end
     class JAM < Code #:nodoc:
-      self.name    = %q{ジャマイカ}
+      self.japanese = %q{ジャマイカ}
     end
     class SYR < Code #:nodoc:
-      self.name    = %q{シリア・アラブ共和国}
+      self.japanese = %q{シリア・アラブ共和国}
     end
     class SGP < Code #:nodoc:
-      self.name    = %q{シンガポール}
+      self.japanese = %q{シンガポール}
     end
     class SXM < Code #:nodoc:
-      self.name    = %q{シント・マールテン（オランダ領）}
+      self.japanese = %q{シント・マールテン（オランダ領）}
     end
     class ZWE < Code #:nodoc:
-      self.name    = %q{ジンバブエ}
+      self.japanese = %q{ジンバブエ}
     end
     class CHE < Code #:nodoc:
-      self.name    = %q{スイス}
+      self.japanese = %q{スイス}
     end
     class SWE < Code #:nodoc:
-      self.name    = %q{スウェーデン}
+      self.japanese = %q{スウェーデン}
     end
     class SDN < Code #:nodoc:
-      self.name    = %q{スーダン}
+      self.japanese = %q{スーダン}
     end
     class SJM < Code #:nodoc:
-      self.name    = %q{スヴァールバル諸島およびヤンマイエン島}
+      self.japanese = %q{スヴァールバル諸島およびヤンマイエン島}
     end
     class ESP < Code #:nodoc:
-      self.name    = %q{スペイン}
+      self.japanese = %q{スペイン}
     end
     class SUR < Code #:nodoc:
-      self.name    = %q{スリナム}
+      self.japanese = %q{スリナム}
     end
     class LKA < Code #:nodoc:
-      self.name    = %q{スリランカ}
+      self.japanese = %q{スリランカ}
     end
     class SVK < Code #:nodoc:
-      self.name    = %q{スロバキア}
+      self.japanese = %q{スロバキア}
     end
     class SVN < Code #:nodoc:
-      self.name    = %q{スロベニア}
+      self.japanese = %q{スロベニア}
     end
     class SWZ < Code #:nodoc:
-      self.name    = %q{スワジランド}
+      self.japanese = %q{スワジランド}
     end
     class SYC < Code #:nodoc:
-      self.name    = %q{セーシェル}
+      self.japanese = %q{セーシェル}
     end
     class GNQ < Code #:nodoc:
-      self.name    = %q{赤道ギニア}
+      self.japanese = %q{赤道ギニア}
     end
     class SEN < Code #:nodoc:
-      self.name    = %q{セネガル}
+      self.japanese = %q{セネガル}
     end
     class SRB < Code #:nodoc:
-      self.name    = %q{セルビア}
+      self.japanese = %q{セルビア}
     end
     class KNA < Code #:nodoc:
-      self.name    = %q{セントクリストファー・ネイビス}
+      self.japanese = %q{セントクリストファー・ネイビス}
     end
     class VCT < Code #:nodoc:
-      self.name    = %q{セントビンセントおよびグレナディーン諸島}
+      self.japanese = %q{セントビンセントおよびグレナディーン諸島}
     end
     class SHN < Code #:nodoc:
-      self.name    = %q{セントヘレナ・アセンションおよびトリスタンダクーニャ}
+      self.japanese = %q{セントヘレナ・アセンションおよびトリスタンダクーニャ}
     end
     class LCA < Code #:nodoc:
-      self.name    = %q{セントルシア}
+      self.japanese = %q{セントルシア}
     end
     class SOM < Code #:nodoc:
-      self.name    = %q{ソマリア}
+      self.japanese = %q{ソマリア}
     end
     class SLB < Code #:nodoc:
-      self.name    = %q{ソロモン諸島}
+      self.japanese = %q{ソロモン諸島}
     end
     class TCA < Code #:nodoc:
-      self.name    = %q{タークス・カイコス諸島}
+      self.japanese = %q{タークス・カイコス諸島}
     end
     class THA < Code #:nodoc:
-      self.name    = %q{タイ}
+      self.japanese = %q{タイ}
     end
     class KOR < Code #:nodoc:
-      self.name    = %q{大韓民国}
+      self.japanese = %q{大韓民国}
     end
     class TWN < Code #:nodoc:
-      self.name    = %q{台湾台湾省中華民国}
+      self.japanese = %q{台湾台湾省中華民国}
     end
     class TJK < Code #:nodoc:
-      self.name    = %q{タジキスタン}
+      self.japanese = %q{タジキスタン}
     end
     class TZA < Code #:nodoc:
-      self.name    = %q{タンザニア}
+      self.japanese = %q{タンザニア}
     end
     class CZE < Code #:nodoc:
-      self.name    = %q{チェコ}
+      self.japanese = %q{チェコ}
     end
     class TCD < Code #:nodoc:
-      self.name    = %q{チャド}
+      self.japanese = %q{チャド}
     end
     class CAF < Code #:nodoc:
-      self.name    = %q{中央アフリカ共和国}
+      self.japanese = %q{中央アフリカ共和国}
     end
     class CHN < Code #:nodoc:
-      self.name    = %q{中華人民共和国}
+      self.japanese = %q{中華人民共和国}
     end
     class TUN < Code #:nodoc:
-      self.name    = %q{チュニジア}
+      self.japanese = %q{チュニジア}
     end
     class PRK < Code #:nodoc:
-      self.name    = %q{朝鮮民主主義人民共和国}
+      self.japanese = %q{朝鮮民主主義人民共和国}
     end
     class CHL < Code #:nodoc:
-      self.name    = %q{チリ}
+      self.japanese = %q{チリ}
     end
     class TUV < Code #:nodoc:
-      self.name    = %q{ツバル}
+      self.japanese = %q{ツバル}
     end
     class DNK < Code #:nodoc:
-      self.name    = %q{デンマーク}
+      self.japanese = %q{デンマーク}
     end
     class DEU < Code #:nodoc:
-      self.name    = %q{ドイツ}
+      self.japanese = %q{ドイツ}
     end
     class TGO < Code #:nodoc:
-      self.name    = %q{トーゴ}
+      self.japanese = %q{トーゴ}
     end
     class TKL < Code #:nodoc:
-      self.name    = %q{トケラウ}
+      self.japanese = %q{トケラウ}
     end
     class DOM < Code #:nodoc:
-      self.name    = %q{ドミニカ共和国}
+      self.japanese = %q{ドミニカ共和国}
     end
     class DMA < Code #:nodoc:
-      self.name    = %q{ドミニカ国}
+      self.japanese = %q{ドミニカ国}
     end
     class TTO < Code #:nodoc:
-      self.name    = %q{トリニダード・トバゴ}
+      self.japanese = %q{トリニダード・トバゴ}
     end
     class TKM < Code #:nodoc:
-      self.name    = %q{トルクメニスタン}
+      self.japanese = %q{トルクメニスタン}
     end
     class TUR < Code #:nodoc:
-      self.name    = %q{トルコ}
+      self.japanese = %q{トルコ}
     end
     class TON < Code #:nodoc:
-      self.name    = %q{トンガ}
+      self.japanese = %q{トンガ}
     end
     class NGA < Code #:nodoc:
-      self.name    = %q{ナイジェリア}
+      self.japanese = %q{ナイジェリア}
     end
     class NRU < Code #:nodoc:
-      self.name    = %q{ナウル}
+      self.japanese = %q{ナウル}
     end
     class NAM < Code #:nodoc:
-      self.name    = %q{ナミビア}
+      self.japanese = %q{ナミビア}
     end
     class ATA < Code #:nodoc:
-      self.name    = %q{南極}
+      self.japanese = %q{南極}
     end
     class NIU < Code #:nodoc:
-      self.name    = %q{ニウエ}
+      self.japanese = %q{ニウエ}
     end
     class NIC < Code #:nodoc:
-      self.name    = %q{ニカラグア}
+      self.japanese = %q{ニカラグア}
     end
     class NER < Code #:nodoc:
-      self.name    = %q{ニジェール}
+      self.japanese = %q{ニジェール}
     end
     class JPN < Code #:nodoc:
-      self.name    = %q{日本}
+      self.japanese = %q{日本}
     end
     class ESH < Code #:nodoc:
-      self.name    = %q{西サハラ}
+      self.japanese = %q{西サハラ}
     end
     class NCL < Code #:nodoc:
-      self.name    = %q{ニューカレドニア}
+      self.japanese = %q{ニューカレドニア}
     end
     class NZL < Code #:nodoc:
-      self.name    = %q{ニュージーランド}
+      self.japanese = %q{ニュージーランド}
     end
     class NPL < Code #:nodoc:
-      self.name    = %q{ネパール}
+      self.japanese = %q{ネパール}
     end
     class NFK < Code #:nodoc:
-      self.name    = %q{ノーフォーク島}
+      self.japanese = %q{ノーフォーク島}
     end
     class NOR < Code #:nodoc:
-      self.name    = %q{ノルウェー}
+      self.japanese = %q{ノルウェー}
     end
     class HMD < Code #:nodoc:
-      self.name    = %q{ハード島とマクドナルド諸島}
+      self.japanese = %q{ハード島とマクドナルド諸島}
     end
     class BHR < Code #:nodoc:
-      self.name    = %q{バーレーン}
+      self.japanese = %q{バーレーン}
     end
     class HTI < Code #:nodoc:
-      self.name    = %q{ハイチ}
+      self.japanese = %q{ハイチ}
     end
     class PAK < Code #:nodoc:
-      self.name    = %q{パキスタン}
+      self.japanese = %q{パキスタン}
     end
     class VAT < Code #:nodoc:
-      self.name    = %q{バチカン市国}
+      self.japanese = %q{バチカン市国}
     end
     class PAN < Code #:nodoc:
-      self.name    = %q{パナマ}
+      self.japanese = %q{パナマ}
     end
     class VUT < Code #:nodoc:
-      self.name    = %q{バヌアツ}
+      self.japanese = %q{バヌアツ}
     end
     class BHS < Code #:nodoc:
-      self.name    = %q{バハマ}
+      self.japanese = %q{バハマ}
     end
     class PNG < Code #:nodoc:
-      self.name    = %q{パプアニューギニア}
+      self.japanese = %q{パプアニューギニア}
     end
     class BMU < Code #:nodoc:
-      self.name    = %q{バミューダ}
+      self.japanese = %q{バミューダ}
     end
     class PLW < Code #:nodoc:
-      self.name    = %q{パラオ}
+      self.japanese = %q{パラオ}
     end
     class PRY < Code #:nodoc:
-      self.name    = %q{パラグアイ}
+      self.japanese = %q{パラグアイ}
     end
     class BRB < Code #:nodoc:
-      self.name    = %q{バルバドス}
+      self.japanese = %q{バルバドス}
     end
     class PSE < Code #:nodoc:
-      self.name    = %q{パレスチナ}
+      self.japanese = %q{パレスチナ}
     end
     class HUN < Code #:nodoc:
-      self.name    = %q{ハンガリー}
+      self.japanese = %q{ハンガリー}
     end
     class BGD < Code #:nodoc:
-      self.name    = %q{バングラデシュ}
+      self.japanese = %q{バングラデシュ}
     end
     class TLS < Code #:nodoc:
-      self.name    = %q{東ティモール}
+      self.japanese = %q{東ティモール}
     end
     class PCN < Code #:nodoc:
-      self.name    = %q{ピトケアン}
+      self.japanese = %q{ピトケアン}
     end
     class FJI < Code #:nodoc:
-      self.name    = %q{フィジー}
+      self.japanese = %q{フィジー}
     end
     class PHL < Code #:nodoc:
-      self.name    = %q{フィリピン}
+      self.japanese = %q{フィリピン}
     end
     class FIN < Code #:nodoc:
-      self.name    = %q{フィンランド}
+      self.japanese = %q{フィンランド}
     end
     class BTN < Code #:nodoc:
-      self.name    = %q{ブータン}
+      self.japanese = %q{ブータン}
     end
     class BVT < Code #:nodoc:
-      self.name    = %q{ブーベ島}
+      self.japanese = %q{ブーベ島}
     end
     class PRI < Code #:nodoc:
-      self.name    = %q{プエルトリコ}
+      self.japanese = %q{プエルトリコ}
     end
     class FRO < Code #:nodoc:
-      self.name    = %q{フェロー諸島}
+      self.japanese = %q{フェロー諸島}
     end
     class FLK < Code #:nodoc:
-      self.name    = %q{フォークランド（マルビナス）諸島}
+      self.japanese = %q{フォークランド（マルビナス）諸島}
     end
     class BRA < Code #:nodoc:
-      self.name    = %q{ブラジル}
+      self.japanese = %q{ブラジル}
     end
     class FRA < Code #:nodoc:
-      self.name    = %q{フランス}
+      self.japanese = %q{フランス}
     end
     class GUF < Code #:nodoc:
-      self.name    = %q{フランス領ギアナ}
+      self.japanese = %q{フランス領ギアナ}
     end
     class PYF < Code #:nodoc:
-      self.name    = %q{フランス領ポリネシア}
+      self.japanese = %q{フランス領ポリネシア}
     end
     class ATF < Code #:nodoc:
-      self.name    = %q{フランス領南方・南極地域}
+      self.japanese = %q{フランス領南方・南極地域}
     end
     class BGR < Code #:nodoc:
-      self.name    = %q{ブルガリア}
+      self.japanese = %q{ブルガリア}
     end
     class BFA < Code #:nodoc:
-      self.name    = %q{ブルキナファソ}
+      self.japanese = %q{ブルキナファソ}
     end
     class BRN < Code #:nodoc:
-      self.name    = %q{ブルネイ・ダルサラーム}
+      self.japanese = %q{ブルネイ・ダルサラーム}
     end
     class BDI < Code #:nodoc:
-      self.name    = %q{ブルンジ}
+      self.japanese = %q{ブルンジ}
     end
     class VNM < Code #:nodoc:
-      self.name    = %q{ベトナム}
+      self.japanese = %q{ベトナム}
     end
     class BEN < Code #:nodoc:
-      self.name    = %q{ベナン}
+      self.japanese = %q{ベナン}
     end
     class VEN < Code #:nodoc:
-      self.name    = %q{ベネズエラ・ボリバル共和国}
+      self.japanese = %q{ベネズエラ・ボリバル共和国}
     end
     class BLR < Code #:nodoc:
-      self.name    = %q{ベラルーシ}
+      self.japanese = %q{ベラルーシ}
     end
     class BLZ < Code #:nodoc:
-      self.name    = %q{ベリーズ}
+      self.japanese = %q{ベリーズ}
     end
     class PER < Code #:nodoc:
-      self.name    = %q{ペルー}
+      self.japanese = %q{ペルー}
     end
     class BEL < Code #:nodoc:
-      self.name    = %q{ベルギー}
+      self.japanese = %q{ベルギー}
     end
     class POL < Code #:nodoc:
-      self.name    = %q{ポーランド}
+      self.japanese = %q{ポーランド}
     end
     class BIH < Code #:nodoc:
-      self.name    = %q{ボスニア・ヘルツェゴビナ}
+      self.japanese = %q{ボスニア・ヘルツェゴビナ}
     end
     class BWA < Code #:nodoc:
-      self.name    = %q{ボツワナ}
+      self.japanese = %q{ボツワナ}
     end
     class BES < Code #:nodoc:
-      self.name    = %q{ボネール、シント・ユースタティウスおよびサバ}
+      self.japanese = %q{ボネール、シント・ユースタティウスおよびサバ}
     end
     class BOL < Code #:nodoc:
-      self.name    = %q{ボリビア多民族国}
+      self.japanese = %q{ボリビア多民族国}
     end
     class PRT < Code #:nodoc:
-      self.name    = %q{ポルトガル}
+      self.japanese = %q{ポルトガル}
     end
     class HKG < Code #:nodoc:
-      self.name    = %q{香港}
+      self.japanese = %q{香港}
     end
     class HND < Code #:nodoc:
-      self.name    = %q{ホンジュラス}
+      self.japanese = %q{ホンジュラス}
     end
     class MHL < Code #:nodoc:
-      self.name    = %q{マーシャル諸島}
+      self.japanese = %q{マーシャル諸島}
     end
     class MAC < Code #:nodoc:
-      self.name    = %q{マカオ}
+      self.japanese = %q{マカオ}
     end
     class MKD < Code #:nodoc:
-      self.name    = %q{マケドニア旧ユーゴスラビア共和国}
+      self.japanese = %q{マケドニア旧ユーゴスラビア共和国}
     end
     class MDG < Code #:nodoc:
-      self.name    = %q{マダガスカル}
+      self.japanese = %q{マダガスカル}
     end
     class MYT < Code #:nodoc:
-      self.name    = %q{マヨット}
+      self.japanese = %q{マヨット}
     end
     class MWI < Code #:nodoc:
-      self.name    = %q{マラウイ}
+      self.japanese = %q{マラウイ}
     end
     class MLI < Code #:nodoc:
-      self.name    = %q{マリ}
+      self.japanese = %q{マリ}
     end
     class MLT < Code #:nodoc:
-      self.name    = %q{マルタ}
+      self.japanese = %q{マルタ}
     end
     class MTQ < Code #:nodoc:
-      self.name    = %q{マルティニーク}
+      self.japanese = %q{マルティニーク}
     end
     class MYS < Code #:nodoc:
-      self.name    = %q{マレーシア}
+      self.japanese = %q{マレーシア}
     end
     class IMN < Code #:nodoc:
-      self.name    = %q{マン島}
+      self.japanese = %q{マン島}
     end
     class FSM < Code #:nodoc:
-      self.name    = %q{ミクロネシア連邦}
+      self.japanese = %q{ミクロネシア連邦}
     end
     class ZAF < Code #:nodoc:
-      self.name    = %q{南アフリカ}
+      self.japanese = %q{南アフリカ}
     end
     class SSD < Code #:nodoc:
-      self.name    = %q{南スーダン}
+      self.japanese = %q{南スーダン}
     end
     class MMR < Code #:nodoc:
-      self.name    = %q{ミャンマー}
+      self.japanese = %q{ミャンマー}
     end
     class MEX < Code #:nodoc:
-      self.name    = %q{メキシコ}
+      self.japanese = %q{メキシコ}
     end
     class MUS < Code #:nodoc:
-      self.name    = %q{モーリシャス}
+      self.japanese = %q{モーリシャス}
     end
     class MRT < Code #:nodoc:
-      self.name    = %q{モーリタニア}
+      self.japanese = %q{モーリタニア}
     end
     class MOZ < Code #:nodoc:
-      self.name    = %q{モザンビーク}
+      self.japanese = %q{モザンビーク}
     end
     class MCO < Code #:nodoc:
-      self.name    = %q{モナコ}
+      self.japanese = %q{モナコ}
     end
     class MDV < Code #:nodoc:
-      self.name    = %q{モルディブ}
+      self.japanese = %q{モルディブ}
     end
     class MDA < Code #:nodoc:
-      self.name    = %q{モルドバ共和国}
+      self.japanese = %q{モルドバ共和国}
     end
     class MAR < Code #:nodoc:
-      self.name    = %q{モロッコ}
+      self.japanese = %q{モロッコ}
     end
     class MNG < Code #:nodoc:
-      self.name    = %q{モンゴル}
+      self.japanese = %q{モンゴル}
     end
     class MNE < Code #:nodoc:
-      self.name    = %q{モンテネグロ}
+      self.japanese = %q{モンテネグロ}
     end
     class MSR < Code #:nodoc:
-      self.name    = %q{モントセラト}
+      self.japanese = %q{モントセラト}
     end
     class JOR < Code #:nodoc:
-      self.name    = %q{ヨルダン}
+      self.japanese = %q{ヨルダン}
     end
     class LAO < Code #:nodoc:
-      self.name    = %q{ラオス人民民主共和国}
+      self.japanese = %q{ラオス人民民主共和国}
     end
     class LVA < Code #:nodoc:
-      self.name    = %q{ラトビア}
+      self.japanese = %q{ラトビア}
     end
     class LTU < Code #:nodoc:
-      self.name    = %q{リトアニア}
+      self.japanese = %q{リトアニア}
     end
     class LBY < Code #:nodoc:
-      self.name    = %q{リビア}
+      self.japanese = %q{リビア}
     end
     class LIE < Code #:nodoc:
-      self.name    = %q{リヒテンシュタイン}
+      self.japanese = %q{リヒテンシュタイン}
     end
     class LBR < Code #:nodoc:
-      self.name    = %q{リベリア}
+      self.japanese = %q{リベリア}
     end
     class ROU < Code #:nodoc:
-      self.name    = %q{ルーマニア}
+      self.japanese = %q{ルーマニア}
     end
     class LUX < Code #:nodoc:
-      self.name    = %q{ルクセンブルク}
+      self.japanese = %q{ルクセンブルク}
     end
     class RWA < Code #:nodoc:
-      self.name    = %q{ルワンダ}
+      self.japanese = %q{ルワンダ}
     end
     class LSO < Code #:nodoc:
-      self.name    = %q{レソト}
+      self.japanese = %q{レソト}
     end
     class LBN < Code #:nodoc:
-      self.name    = %q{レバノン}
+      self.japanese = %q{レバノン}
     end
     class REU < Code #:nodoc:
-      self.name    = %q{レユニオン}
+      self.japanese = %q{レユニオン}
     end
     class RUS < Code #:nodoc:
-      self.name    = %q{ロシア連邦}
+      self.japanese = %q{ロシア連邦}
     end
   end # end Code
 end # IsoCountryCodes
