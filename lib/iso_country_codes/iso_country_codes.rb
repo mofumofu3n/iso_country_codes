@@ -50,7 +50,7 @@ class IsoCountryCodes # :nodoc:
     def search_by_japanese(str, &fallback)
       fallback ||= DEFAULT_FALLBACK
 
-      instances = all.select { |c| c.japanese.to_s.match(/^#{Regexp.escape(str)}/i) } 
+      instances = all.select { |c| c.japanese.to_s.match(/^#{Regexp.escape(str)}$/i) } 
       instances = all.select { |c| c.japanese.to_s.match(/#{Regexp.escape(str)}/i) } if instances.empty?
 
       return fallback.call "No Japanse Name could be found searching with name '#{str}'." if instances.empty?
